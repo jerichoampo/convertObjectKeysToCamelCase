@@ -2,6 +2,8 @@
  * @author Jericho Ampo <sijiboko@gmail.com>
  */
 
+const _ = require('lodash');
+
 function convertKeysToCamelCase(object) {
     let newObject = {};
   
