@@ -1,0 +1,23 @@
+{
+  "name": "objectkeystoccformat",
+  "version": "1.0.0",
+  "description": "Converts Object keys to camel case format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerichoampo/convertObjectKeysToCamelCase.git"
+  },
+  "keywords": [
+    "camel",
+    "case"
+  ],
+  "author": "Jericho Ampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerichoampo/convertObjectKeysToCamelCase/issues"
+  },
+  "homepage": "https://github.com/jerichoampo/convertObjectKeysToCamelCase#readme"
+}
