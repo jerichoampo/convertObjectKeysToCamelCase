@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jerichoampo/convertObjectKeysToCamelCase/issues"
   },
-  "homepage": "https://github.com/jerichoampo/convertObjectKeysToCamelCase#readme"
+  "homepage": "https://github.com/jerichoampo/convertObjectKeysToCamelCase#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
